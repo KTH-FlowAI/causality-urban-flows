@@ -22,7 +22,7 @@ To get started, you will need to have MATLAB installed on your computer. You wil
 
 ## Example
 
-An example script (`example.m`) is provided to demonstrate how to use the scripts. This script creates two time-varying variables, saves them to a .mat file, and then calculates the transfer entropy between them. The results are saved in a folder named "example".
+An example script (`example.m`) is provided to demonstrate how to use the scripts. This script creates five time-varying variables, saves them to a .mat file, and then calculates the transfer entropy between them. The results are saved in a folder named "example".
 
 ## Citation
 
