@@ -28,7 +28,7 @@ An example script (`example.m`) is provided to demonstrate how to use the script
 
 If you use this code in your research, please cite the following paper:
 
-Martínez-Sánchez, Á., López, E., Le Clainche, S., Lozano-Durán, A., Srivastava, A., & Vinuesa, R. (2022). Causality analysis of large-scale structures in the flow around a wall-mounted square cylinder. arXiv preprint arXiv:2209.15356. [Link to the paper](https://arxiv.org/abs/2209.15356)
+Álvaro Martínez-Sánchez, Esteban López, Soledad Le Clainche, Adrián Lozano-Durán, Ankit Srivastava, & Ricardo Vinuesa (2022). "Causality analysis of large-scale structures in the flow around a wall-mounted square cylinder". [Journal of Fluid Mechanics](https://arxiv.org/abs/2209.15356)
 
 ## License
 
