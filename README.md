@@ -6,6 +6,11 @@ This repository contains MATLAB scripts for calculating Transfer Entropy (TE) fr
 
 This code is based on the research paper titled ["Causality analysis of large-scale structures in the flow around a wall-mounted square cylinder", Martínez-Sánchez *et al.*](https://arxiv.org/abs/2209.15356) (2023, *Journal of Fluid Mechanics*). In this work, the authors conducted a causality analysis of the large-scale structures in the flow around a wall-mounted square cylinder. The aim was to analyze the formation mechanisms of these coherent structures and their impact on pollutant transport within cities. The authors assessed the causal relations between the modes of a reduced-order model obtained by applying proper-orthogonal decomposition to high-fidelity-simulation data of the flow case under study. The causal relations were identified using conditional transfer entropy, which is an information-theoretical quantity that estimates the amount of information contained in the past of one variable about another. This allowed for an understanding of the origins and evolution of different phenomena in the flow and the identification of the modes responsible for the formation of the main vortical structures.
 
+Watch the video below for a brief introduction to the project:
+
+[![Introduction Video](http://img.youtube.com/vi/6FSBU9wrqkY/0.jpg)](http://www.youtube.com/watch?v=6FSBU9wrqkY)
+
+
 ## Getting Started
 
 To get started, you will need to have MATLAB installed on your computer. You will also need to download the Java Information Dynamics Toolkit (JIDT) from [here](https://github.com/jlizier/jidt/).
