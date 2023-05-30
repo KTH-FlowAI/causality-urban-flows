@@ -22,8 +22,6 @@ To get started with using the scripts in this repository, follow the steps below
 
 4. **Run the scripts**: You are now ready to run the scripts. You can start by running the `main.m` script, which sets the parameters for the TE calculation and calls the main function to perform the calculations.
 
-Remember to always check the MATLAB command window for any error messages or warnings when running the scripts.
-
 ## Usage
 
 1. Set the parameters for the TE calculation in the `main.m` script. These include the number of modes, lags, embedding dimension, length of past history, number of nearest neighbors for the Kraskov estimator, and number of permutations for significance testing.
