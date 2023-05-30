@@ -14,11 +14,11 @@ Watch the video below for a brief introduction to the project:
 
 To get started with using the scripts in this repository, follow the steps below:
 
-1. **Install MATLAB**: The scripts in this repository are written in MATLAB, so you will need to have MATLAB installed on your computer. If you do not already have MATLAB, you can download it from the [official MATLAB website](https://www.mathworks.com/products/matlab.html). Make sure to also install the Signal Processing Toolbox, as some of the scripts may require it.
+1. **Install MATLAB**: The scripts in this repository are written in MATLAB. Make sure to also install the Signal Processing Toolbox, as some of the scripts may require it.
 
-2. **Download the Java Information Dynamics Toolkit (JIDT)**: The scripts in this repository use the JIDT for the calculation of Transfer Entropy. The JIDT is a Java library that provides a set of tools for the computation of information-theoretic measures of distributed computation in complex systems. You can download the JIDT from its GitHub repository [here](https://github.com/jlizier/jidt/). After downloading, extract the contents of the .zip file to a location on your computer.
+2. **Download the Java Information Dynamics Toolkit (JIDT)**: The scripts in this repository use the JIDT for the calculation of Transfer Entropy. The JIDT is a Java library that provides a set of tools for the computation of information-theoretic measures of distributed computation in complex systems. You can download the JIDT from its GitHub repository [here](https://github.com/jlizier/jidt/).
 
-3. **Set up the MATLAB environment**: Open MATLAB and navigate to the directory where you saved the scripts from this repository. Before running the scripts, you will need to add the path to the JIDT library to the MATLAB environment. You can do this by using the `addpath` function in MATLAB. For example, if you saved the JIDT library in a folder named "JIDT" in your home directory, you would add the path like this: `addpath('~/JIDT')`.
+3. **Set up the MATLAB environment**: Open MATLAB and navigate to the directory where you saved the scripts from this repository. Before running the scripts, you will need to add the path to the JIDT library to the MATLAB environment. You can do this by using the `javaaddpath` function in MATLAB. For example, if you saved the JIDT library in a folder named "JIDT" in your home directory, you would add the path like this: `javaaddpath('~/JIDT/infodynamics.jar')`.
 
 4. **Run the scripts**: You are now ready to run the scripts. You can start by running the `main.m` script, which sets the parameters for the TE calculation and calls the main function to perform the calculations.
 
