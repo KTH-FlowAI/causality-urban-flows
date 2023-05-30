@@ -8,7 +8,7 @@ This code is based on the research paper titled ["Causality analysis of large-sc
 
 Watch the video below for a brief introduction to the project:
 
-[![Introduction Video](https://imgur.com/a/Uj8x1n7)](http://www.youtube.com/watch?v=6FSBU9wrqkY)
+[![Introduction Video](https://i.imgur.com/oBtpQQv.png)](http://www.youtube.com/watch?v=6FSBU9wrqkY)
 
 ## Getting Started
 
