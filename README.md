@@ -8,7 +8,7 @@ This code is based on the research paper titled ["Causality analysis of large-sc
 
 Watch the video below for a brief introduction to the project:
 
-[![](https://markdown-videos.deta.dev/youtube/6FSBU9wrqkY)](https://youtu.be/6FSBU9wrqkY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6FSBU9wrqkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Getting Started
