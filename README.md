@@ -14,7 +14,7 @@ Watch the video below for a brief introduction to the project:
 
 To get started with using the scripts in this repository, follow the steps below:
 
-1. **Install MATLAB**: The scripts in this repository are written in MATLAB. Make sure to also install the Signal Processing Toolbox, as some of the scripts may require it.
+1. **Install MATLAB**: The scripts in this repository are written in MATLAB. Make sure to also install the Signal Processing Toolbox, as some of the scripts may require it. The scripts have been tested and confirmed to work on MATLAB version R2021a.
 
 2. **Download the Java Information Dynamics Toolkit (JIDT)**: The scripts in this repository use the JIDT for the calculation of Transfer Entropy. The JIDT is a Java library that provides a set of tools for the computation of information-theoretic measures of distributed computation in complex systems. You can download the JIDT from its GitHub repository [here](https://github.com/jlizier/jidt/).
 
